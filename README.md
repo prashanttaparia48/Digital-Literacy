@@ -16,24 +16,24 @@ The work is organized into five comprehensive modules, each addressing a critica
 
 ## MODULE SUMMARIES
 
-Module 1 – Digital Literacy Awareness
+### Module 1 – Digital Literacy Awareness
 - This module introduced the foundational concepts of digital literacy and highlighted its significance in academic, professional, and personal contexts. To demonstrate my understanding, I designed a visual infographic using Canva that effectively presents key themes such as safe internet practices, essential digital tools, and info about digital literacy.
 - Folder: task-1-presentation/
 
-Module 2 – Building a Digital Portfolio
+### Module 2 – Building a Digital Portfolio
 - In this module, I focused on establishing a professional digital presence. I created and refined my profiles on platforms such as GitHub, LinkedIn, and Kaggle. This exercise helped me understand the importance of personal branding, showcasing technical skills, and leveraging online platforms for networking and career development.
 - Folder: task-2-portfolio/
 
-Module 3 – Coding and Collaboration Platforms
+### Module 3 – Coding and Collaboration Platforms
 - This module provided practical exposure to coding and collaborative technologies. I completed beginner-level Python challenges on HackerRank, which strengthened my problem-solving abilities and programming fundamentals. Additionally, I developed a Digital Literacy Awareness Quiz using Google Forms to promote interactive learning and peer engagement.
 - Google Form Link: https://forms.gle/MigMC8NwkPPAUXdt9
 - Folder: task-3-platforms/
 
-Module 4 – Professional Communication & Email Etiquette
+### Module 4 – Professional Communication & Email Etiquette
 - This module emphasized the importance of clear, concise, and professional communication in digital environments. I drafted formal emails addressed to both an academic professional and a corporate entity, which enhanced my understanding of tone, structure, and etiquette. I also created a checklist outlining responsible and professional behavior on social media platforms.
 - Folder: task-4-email-etiquette/
 
-Module 5 – Cybercrime Awareness and Prevention
+### Module 5 – Cybercrime Awareness and Prevention
 - In this module, I explored contemporary cyber threats with a focus on UPI and online payment fraud. I prepared a detailed case study explaining the mechanisms behind such frauds and developed a practical prevention checklist to raise awareness and promote safe digital practices among students.
 
 - Report cybercrime: https://cybercrime.gov.in
